@@ -1,0 +1,37 @@
+.view-members-container {
+  text-align: center;
+  padding: 20px;
+}
+.members-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.member-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+  text-align: left;
+}
+.member-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+.error {
+  color: red;
+}
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,17 @@
+.member-details-container {
+  text-align: center;
+  padding: 20px;
+}
+.member-details {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: left;
+}
+.member-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+.error {
+  color: red;
+}
